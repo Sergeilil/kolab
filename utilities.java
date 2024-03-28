@@ -1,0 +1,1 @@
+alert->setFontSize(30);
